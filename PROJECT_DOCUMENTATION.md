@@ -15,16 +15,16 @@ A webpage for a small jewelry business, using HTML and CSS.
 
 ### Triumphant:
 
--   Worked on [specific elements] of the webpage.
+-   Provided technical support.  Was late and had to leave early, but was clear in communicating with group
 
 ### Aniken:
 
--   Was responsible for [specific tasks], focusing on [specific HTML elements].
+-   Responsible for setting up the code structure, focusing on formatting, HTML setup, and some CSS styles.
 
 ### Dorothy:
 
--   Handled [specific sections], covering [specific features].
+-   Did not show up today, and no one from the group has heard from her.
 
 ### Gurmandeep:
 
--   Added pictures, some CSS styles 
+-   Was in charge of necessary research for topic, added pictures, and some CSS styles.
