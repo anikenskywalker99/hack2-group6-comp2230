@@ -1,3 +1,15 @@
 :root {
-    --red: red;
+    --wine: #722f37;
+    --ebony: #555d50;
+    --gold: #d4af37;
+    --silver: #c0c0c0;
+    --rosegold: #fddcd7;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
 }
