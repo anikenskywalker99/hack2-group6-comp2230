@@ -27,4 +27,4 @@ A webpage for a small jewelry business, using HTML and CSS.
 
 ### Gurmandeep:
 
--   Added [specific information], about [specific topics].
+-   Added pictures, some CSS styles 
