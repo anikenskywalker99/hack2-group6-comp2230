@@ -19,15 +19,18 @@ footer{
 }
 
 body header h1{
-    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     text-decoration: wavy;
 }
 
-main.main-content {
+#home,
+#examples,
+#about,
+#contact {
     background-color: var(--rosegold);
     padding: 1.25rem;
-    box-shadow: 2px 2px 4px #000;
+    margin-bottom: 1rem;
+    box-shadow: 2px 2px 4px #000, 4px 4px 4px var(--wine);
 }
 
 a {
@@ -45,4 +48,8 @@ a {
 header nav div a {
     display: inline;
     margin-top: 0 1 rem;
+}
+
+header img {
+    height: 500px;
 }
