@@ -14,72 +14,8 @@ body {
     font-size: 100%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 footer{
-    background-color: gray;
+    background-color: var(--silver);
 }
 
 body header h1{
@@ -89,7 +25,7 @@ body header h1{
 }
 
 main.main-content {
-    background-color: antiquewhite;
+    background-color: var(--rosegold);
     padding: 1.25rem;
     box-shadow: 2px 2px 4px #000;
 }
@@ -102,7 +38,7 @@ a {
 
 @media only screen and (max-width: 600px) {
     body {
-        background-color: lightblue;
+        background-color: var(--ebony);
     }
 }
 
